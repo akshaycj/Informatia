@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "319902405905",
+    "firebase_url": "https://informatia-afee5.firebaseio.com",
+    "project_id": "informatia-afee5",
+    "storage_bucket": "informatia-afee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319902405905:android:c8b3f67c559895aa",
+        "android_client_info": {
+          "package_name": "com.janjschool.informatia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319902405905-prjv2iqtj9gfdskoa10a9tjv309r8kb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.janjschool.informatia",
+            "certificate_hash": "a908bfa2fd7228898494276d3b0be4bc0ece4db2"
+          }
+        },
+        {
+          "client_id": "319902405905-1ppvcarve7e0do5og7gfagtkmaest4vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.janjschool.informatia",
+            "certificate_hash": "18f9ce6d37063c51ee3ec6b4e0f40b0752a7596a"
+          }
+        },
+        {
+          "client_id": "319902405905-20fuun3dm5ukp0evnkpe86uk1nr39art.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8fTEFxOmxvpY-vkUEWTykj3hN8BxmFpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319902405905-20fuun3dm5ukp0evnkpe86uk1nr39art.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319902405905:android:ef5af749a8895e9c",
+        "android_client_info": {
+          "package_name": "com.edualchem.informatiaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319902405905-20fuun3dm5ukp0evnkpe86uk1nr39art.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8fTEFxOmxvpY-vkUEWTykj3hN8BxmFpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319902405905:android:22cd450127680e5d",
+        "android_client_info": {
+          "package_name": "com.edualchem.informatia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319902405905-au18a4l30djdubhn8o87m9kimpsdhufc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edualchem.informatia",
+            "certificate_hash": "a908bfa2fd7228898494276d3b0be4bc0ece4db2"
+          }
+        },
+        {
+          "client_id": "319902405905-20fuun3dm5ukp0evnkpe86uk1nr39art.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8fTEFxOmxvpY-vkUEWTykj3hN8BxmFpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319902405905-20fuun3dm5ukp0evnkpe86uk1nr39art.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

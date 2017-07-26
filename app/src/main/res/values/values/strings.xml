@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">J&amp;J Informatia</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mission">To make the students free from stress and strain, swimming training has been introduced in syllabus and convert the school as the first school that is providing swimming to all the students.\nEstablish a well equipped Edu- Analytical Lab for easy understanding of the lesson where lessons are given through interacting games and activities on tablets and make the students to feel the pleasure of learning. </string>
+
+
+    <string-array name="image_ids">
+        <item>@drawable/feed_kg</item>
+        <item>@drawable/g2</item>
+        <item>@drawable/g3</item>
+        <item>@drawable/g4</item>
+        <item>@drawable/g5</item>
+        <item>@drawable/g6</item>
+        <item>@drawable/g7</item>
+    </string-array>
+
+
+</resources>

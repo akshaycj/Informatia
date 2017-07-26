@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/main_layout"
+        android:background="@color/colorAccent"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="35dp">
+        <TextView
+
+            android:textSize="18sp"
+            android:id="@+id/mark_title"
+            android:padding="3dp"
+            android:textColor="#ffffff"
+
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="FA-1"
+            android:layout_centerHorizontal="true"
+            android:layout_width="match_parent"
+            android:layout_height="35sp" />
+
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>
